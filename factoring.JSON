@@ -1,0 +1,2452 @@
+[
+{
+"id": "fac_001",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "2x + 4",
+"respuesta_correcta": "2(x + 2)"
+},
+{
+"id": "fac_002",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "3x - 9",
+"respuesta_correcta": "3(x - 3)"
+},
+{
+"id": "fac_003",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "5x^2 + 10x",
+"respuesta_correcta": "5x(x + 2)"
+},
+{
+"id": "fac_004",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "6x^2 - 12x",
+"respuesta_correcta": "6x(x - 2)"
+},
+{
+"id": "fac_005",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "4x^3 + 8x^2",
+"respuesta_correcta": "4x^2(x + 2)"
+},
+{
+"id": "fac_006",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "7x^2 - 21x",
+"respuesta_correcta": "7x(x - 3)"
+},
+{
+"id": "fac_007",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "8x^3 - 16x^2 + 24x",
+"respuesta_correcta": "8x(x^2 - 2x + 3)"
+},
+{
+"id": "fac_008",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "9x^4 + 18x^3 - 27x^2",
+"respuesta_correcta": "9x^2(x^2 + 2x - 3)"
+},
+{
+"id": "fac_009",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "10a^2b + 15ab^2",
+"respuesta_correcta": "5ab(2a + 3b)"
+},
+{
+"id": "fac_010",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "12x^2y - 18xy^2",
+"respuesta_correcta": "6xy(2x - 3y)"
+},
+{
+"id": "fac_011",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "14m^3n^2 - 21m^2n^3",
+"respuesta_correcta": "7m^2n^2(2m - 3n)"
+},
+{
+"id": "fac_012",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "15x^3 - 25x^2",
+"respuesta_correcta": "5x^2(3x - 5)"
+},
+{
+"id": "fac_013",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "16a^4 - 24a^2",
+"respuesta_correcta": "8a^2(2a^2 - 3)"
+},
+{
+"id": "fac_014",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "20x^2y^2 + 30xy",
+"respuesta_correcta": "10xy(2xy + 3)"
+},
+{
+"id": "fac_015",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "3a + 6b + 9c",
+"respuesta_correcta": "3(a + 2b + 3c)"
+},
+{
+"id": "fac_016",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "4x^2 - 8x + 12",
+"respuesta_correcta": "4(x^2 - 2x + 3)"
+},
+{
+"id": "fac_017",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "5p^3q - 10p^2q^2 + 15pq^3",
+"respuesta_correcta": "5pq(p^2 - 2pq + 3q^2)"
+},
+{
+"id": "fac_018",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "6x^4y^2 - 12x^3y^3 + 18x^2y^4",
+"respuesta_correcta": "6x^2y^2(x^2 - 2xy + 3y^2)"
+},
+{
+"id": "fac_019",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "21x^3 - 14x^2 + 7x",
+"respuesta_correcta": "7x(3x^2 - 2x + 1)"
+},
+{
+"id": "fac_020",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "25a^3b^3 - 15a^2b^2 + 5ab",
+"respuesta_correcta": "5ab(5a^2b^2 - 3ab + 1)"
+},
+{
+"id": "fac_021",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "18x^2 - 27x",
+"respuesta_correcta": "9x(2x - 3)"
+},
+{
+"id": "fac_022",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "32x^5 - 16x^3",
+"respuesta_correcta": "16x^3(2x^2 - 1)"
+},
+{
+"id": "fac_023",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "24a^3b - 36a^2b^2",
+"respuesta_correcta": "12a^2b(2a - 3b)"
+},
+{
+"id": "fac_024",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "35x^4y - 14x^2y^2",
+"respuesta_correcta": "7x^2y(5x^2 - 2y)"
+},
+{
+"id": "fac_025",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "8x^3y^3 - 12x^2y^2 + 4xy",
+"respuesta_correcta": "4xy(2x^2y^2 - 3xy + 1)"
+},
+{
+"id": "fac_026",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "9a^3 - 6a^2 + 3a",
+"respuesta_correcta": "3a(3a^2 - 2a + 1)"
+},
+{
+"id": "fac_027",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "11x^2y^3 + 22x^3y^2",
+"respuesta_correcta": "11x^2y^2(y + 2x)"
+},
+{
+"id": "fac_028",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "13a^4b - 39a^2b^3",
+"respuesta_correcta": "13a^2b(a^2 - 3b^2)"
+},
+{
+"id": "fac_029",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "16x^3 - 24x^2 + 8x",
+"respuesta_correcta": "8x(2x^2 - 3x + 1)"
+},
+{
+"id": "fac_030",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "27m^4n^2 - 18m^2n^4",
+"respuesta_correcta": "9m^2n^2(3m^2 - 2n^2)"
+},
+{
+"id": "fac_031",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "30x^5 - 45x^3 + 15x^2",
+"respuesta_correcta": "15x^2(2x^3 - 3x + 1)"
+},
+{
+"id": "fac_032",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "14a^2b^2 - 28ab + 42",
+"respuesta_correcta": "14(a^2b^2 - 2ab + 3)"
+},
+{
+"id": "fac_033",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "40x^4y^3 - 50x^3y^4",
+"respuesta_correcta": "10x^3y^3(4x - 5y)"
+},
+{
+"id": "fac_034",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "12p^4q^2 - 16p^3q^3 + 20p^2q^4",
+"respuesta_correcta": "4p^2q^2(3p^2 - 4pq + 5q^2)"
+},
+{
+"id": "fac_035",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "22x^3y - 33x^2y^2 + 11xy^3",
+"respuesta_correcta": "11xy(2x^2 - 3xy + y^2)"
+},
+{
+"id": "fac_036",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "36a^5b^3 - 24a^3b^4",
+"respuesta_correcta": "12a^3b^3(3a^2 - 2b)"
+},
+{
+"id": "fac_037",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "45x^3 - 30x^2 + 15x",
+"respuesta_correcta": "15x(3x^2 - 2x + 1)"
+},
+{
+"id": "fac_038",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "18u^3v^2 - 27u^2v^3 + 9uv",
+"respuesta_correcta": "9uv(2u^2v - 3uv^2 + 1)"
+},
+{
+"id": "fac_039",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "50x^4y^2 - 25x^2y^4",
+"respuesta_correcta": "25x^2y^2(2x^2 - y^2)"
+},
+{
+"id": "fac_040",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "16m^3n - 32m^2n^2 + 48mn^3",
+"respuesta_correcta": "16mn(m^2 - 2mn + 3n^2)"
+},
+{
+"id": "fac_041",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "28a^4 - 42a^3 + 14a^2",
+"respuesta_correcta": "14a^2(2a^2 - 3a + 1)"
+},
+{
+"id": "fac_042",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "60x^3y^3 - 40x^2y^2 + 20xy",
+"respuesta_correcta": "20xy(3x^2y^2 - 2xy + 1)"
+},
+{
+"id": "fac_043",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "24x^4 - 36x^3 + 48x^2",
+"respuesta_correcta": "12x^2(2x^2 - 3x + 4)"
+},
+{
+"id": "fac_044",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "15a^3b^2c - 25a^2b^3c^2",
+"respuesta_correcta": "5a^2b^2c(3a - 5bc)"
+},
+{
+"id": "fac_045",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "33x^5y^2 - 22x^3y^4",
+"respuesta_correcta": "11x^3y^2(3x^2 - 2y^2)"
+},
+{
+"id": "fac_046",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "42p^3q^2 - 28p^2q^3 + 14pq",
+"respuesta_correcta": "14pq(3p^2q - 2pq^2 + 1)"
+},
+{
+"id": "fac_047",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "48a^4b^2 - 32a^2b^4",
+"respuesta_correcta": "16a^2b^2(3a^2 - 2b^2)"
+},
+{
+"id": "fac_048",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "54x^3y^2 - 36x^2y^3 + 18xy",
+"respuesta_correcta": "18xy(3x^2y - 2xy^2 + 1)"
+},
+{
+"id": "fac_049",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "64x^5 - 32x^3 + 16x^2",
+"respuesta_correcta": "16x^2(4x^3 - 2x + 1)"
+},
+{
+"id": "fac_050",
+"tema": "Factorización",
+"tipo": "GCF",
+"expresion_latex": "75a^3b^4 - 50a^2b^3 + 25ab^2",
+"respuesta_correcta": "25ab^2(3a^2b^2 - 2ab + 1)"
+},
+{
+"id": "fac_051",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "ax + ay + bx + by",
+"respuesta_correcta": "(a + b)(x + y)"
+},
+{
+"id": "fac_052",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 + 2x^2 + 3x + 6",
+"respuesta_correcta": "(x^2 + 3)(x + 2)"
+},
+{
+"id": "fac_053",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 - 3x^2 + 2x - 6",
+"respuesta_correcta": "(x^2 + 2)(x - 3)"
+},
+{
+"id": "fac_054",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2x^3 + 4x^2 + 3x + 6",
+"respuesta_correcta": "(2x^2 + 3)(x + 2)"
+},
+{
+"id": "fac_055",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "3x^3 - 6x^2 + 4x - 8",
+"respuesta_correcta": "(3x^2 + 4)(x - 2)"
+},
+{
+"id": "fac_056",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 + x^2 + x + 1",
+"respuesta_correcta": "(x^2 + 1)(x + 1)"
+},
+{
+"id": "fac_057",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 - x^2 + x - 1",
+"respuesta_correcta": "(x^2 + 1)(x - 1)"
+},
+{
+"id": "fac_058",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2x^3 - 6x^2 + 5x - 15",
+"respuesta_correcta": "(2x^2 + 5)(x - 3)"
+},
+{
+"id": "fac_059",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "4x^3 + 8x^2 + x + 2",
+"respuesta_correcta": "(4x^2 + 1)(x + 2)"
+},
+{
+"id": "fac_060",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "5x^3 - 10x^2 + 3x - 6",
+"respuesta_correcta": "(5x^2 + 3)(x - 2)"
+},
+{
+"id": "fac_061",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "xy + 3x + 2y + 6",
+"respuesta_correcta": "(x + 2)(y + 3)"
+},
+{
+"id": "fac_062",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "xy - 4x + 3y - 12",
+"respuesta_correcta": "(x + 3)(y - 4)"
+},
+{
+"id": "fac_063",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2xy + 6x + 5y + 15",
+"respuesta_correcta": "(2x + 5)(y + 3)"
+},
+{
+"id": "fac_064",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "3xy - 9x - 2y + 6",
+"respuesta_correcta": "(3x - 2)(y - 3)"
+},
+{
+"id": "fac_065",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "4xy + 12x - y - 3",
+"respuesta_correcta": "(4x - 1)(y + 3)"
+},
+{
+"id": "fac_066",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "a^2b + a^2 + b + 1",
+"respuesta_correcta": "(a^2 + 1)(b + 1)"
+},
+{
+"id": "fac_067",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 + 4x^2 + 2x + 8",
+"respuesta_correcta": "(x^2 + 2)(x + 4)"
+},
+{
+"id": "fac_068",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 - 5x^2 + 3x - 15",
+"respuesta_correcta": "(x^2 + 3)(x - 5)"
+},
+{
+"id": "fac_069",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2x^3 + 8x^2 + x + 4",
+"respuesta_correcta": "(2x^2 + 1)(x + 4)"
+},
+{
+"id": "fac_070",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "3x^3 - 15x^2 + 2x - 10",
+"respuesta_correcta": "(3x^2 + 2)(x - 5)"
+},
+{
+"id": "fac_071",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "6x^3 - 9x^2 + 4x - 6",
+"respuesta_correcta": "(3x^2 + 2)(2x - 3)"
+},
+{
+"id": "fac_072",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "10x^3 + 15x^2 + 4x + 6",
+"respuesta_correcta": "(5x^2 + 2)(2x + 3)"
+},
+{
+"id": "fac_073",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "12x^3 - 8x^2 + 3x - 2",
+"respuesta_correcta": "(4x^2 + 1)(3x - 2)"
+},
+{
+"id": "fac_074",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "15x^3 + 10x^2 + 6x + 4",
+"respuesta_correcta": "(5x^2 + 2)(3x + 2)"
+},
+{
+"id": "fac_075",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "8x^3 - 12x^2 + 2x - 3",
+"respuesta_correcta": "(4x^2 + 1)(2x - 3)"
+},
+{
+"id": "fac_076",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "ab + 5a + 2b + 10",
+"respuesta_correcta": "(a + 2)(b + 5)"
+},
+{
+"id": "fac_077",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "ab - 7a + 4b - 28",
+"respuesta_correcta": "(a + 4)(b - 7)"
+},
+{
+"id": "fac_078",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2ab + 10a - 3b - 15",
+"respuesta_correcta": "(2a - 3)(b + 5)"
+},
+{
+"id": "fac_079",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "3ab - 12a + 2b - 8",
+"respuesta_correcta": "(3a + 2)(b - 4)"
+},
+{
+"id": "fac_080",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "5ab + 15a - 4b - 12",
+"respuesta_correcta": "(5a - 4)(b + 3)"
+},
+{
+"id": "fac_081",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 + 6x^2 + 2x + 12",
+"respuesta_correcta": "(x^2 + 2)(x + 6)"
+},
+{
+"id": "fac_082",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 - 7x^2 + 4x - 28",
+"respuesta_correcta": "(x^2 + 4)(x - 7)"
+},
+{
+"id": "fac_083",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2x^3 + 12x^2 + 3x + 18",
+"respuesta_correcta": "(2x^2 + 3)(x + 6)"
+},
+{
+"id": "fac_084",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "3x^3 - 21x^2 + 5x - 35",
+"respuesta_correcta": "(3x^2 + 5)(x - 7)"
+},
+{
+"id": "fac_085",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "4x^3 + 16x^2 + 3x + 12",
+"respuesta_correcta": "(4x^2 + 3)(x + 4)"
+},
+{
+"id": "fac_086",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "ax - ay + bx - by",
+"respuesta_correcta": "(a + b)(x - y)"
+},
+{
+"id": "fac_087",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2ax - 4ay + 3bx - 6by",
+"respuesta_correcta": "(2a + 3b)(x - 2y)"
+},
+{
+"id": "fac_088",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "3ax + 9ay - 2bx - 6by",
+"respuesta_correcta": "(3a - 2b)(x + 3y)"
+},
+{
+"id": "fac_089",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "5ax - 10ay - 3bx + 6by",
+"respuesta_correcta": "(5a - 3b)(x - 2y)"
+},
+{
+"id": "fac_090",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "4ax + 12ay + 5bx + 15by",
+"respuesta_correcta": "(4a + 5b)(x + 3y)"
+},
+{
+"id": "fac_091",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 + 5x^2 + 4x + 20",
+"respuesta_correcta": "(x^2 + 4)(x + 5)"
+},
+{
+"id": "fac_092",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "x^3 - 8x^2 + 2x - 16",
+"respuesta_correcta": "(x^2 + 2)(x - 8)"
+},
+{
+"id": "fac_093",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2x^3 + 10x^2 + 5x + 25",
+"respuesta_correcta": "(2x^2 + 5)(x + 5)"
+},
+{
+"id": "fac_094",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "3x^3 - 24x^2 + 4x - 32",
+"respuesta_correcta": "(3x^2 + 4)(x - 8)"
+},
+{
+"id": "fac_095",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "6x^3 + 18x^2 + 5x + 15",
+"respuesta_correcta": "(6x^2 + 5)(x + 3)"
+},
+{
+"id": "fac_096",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "p^2q + p^2 + q + 1",
+"respuesta_correcta": "(p^2 + 1)(q + 1)"
+},
+{
+"id": "fac_097",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "2p^2q - 4p^2 + 3q - 6",
+"respuesta_correcta": "(2p^2 + 3)(q - 2)"
+},
+{
+"id": "fac_098",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "3p^2q + 9p^2 - 2q - 6",
+"respuesta_correcta": "(3p^2 - 2)(q + 3)"
+},
+{
+"id": "fac_099",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "4p^2q - 8p^2 - 5q + 10",
+"respuesta_correcta": "(4p^2 - 5)(q - 2)"
+},
+{
+"id": "fac_100",
+"tema": "Factorización",
+"tipo": "grouping",
+"expresion_latex": "5p^2q + 15p^2 + 2q + 6",
+"respuesta_correcta": "(5p^2 + 2)(q + 3)"
+},
+{
+"id": "fac_101",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 5x + 6",
+"respuesta_correcta": "(x + 2)(x + 3)"
+},
+{
+"id": "fac_102",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 7x + 12",
+"respuesta_correcta": "(x + 3)(x + 4)"
+},
+{
+"id": "fac_103",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 8x + 15",
+"respuesta_correcta": "(x + 3)(x + 5)"
+},
+{
+"id": "fac_104",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 9x + 20",
+"respuesta_correcta": "(x + 4)(x + 5)"
+},
+{
+"id": "fac_105",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 10x + 24",
+"respuesta_correcta": "(x + 4)(x + 6)"
+},
+{
+"id": "fac_106",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 5x + 6",
+"respuesta_correcta": "(x - 2)(x - 3)"
+},
+{
+"id": "fac_107",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 7x + 12",
+"respuesta_correcta": "(x - 3)(x - 4)"
+},
+{
+"id": "fac_108",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 8x + 15",
+"respuesta_correcta": "(x - 3)(x - 5)"
+},
+{
+"id": "fac_109",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 9x + 20",
+"respuesta_correcta": "(x - 4)(x - 5)"
+},
+{
+"id": "fac_110",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 10x + 24",
+"respuesta_correcta": "(x - 4)(x - 6)"
+},
+{
+"id": "fac_111",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + x - 6",
+"respuesta_correcta": "(x + 3)(x - 2)"
+},
+{
+"id": "fac_112",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + x - 12",
+"respuesta_correcta": "(x + 4)(x - 3)"
+},
+{
+"id": "fac_113",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 2x - 15",
+"respuesta_correcta": "(x + 5)(x - 3)"
+},
+{
+"id": "fac_114",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + x - 20",
+"respuesta_correcta": "(x + 5)(x - 4)"
+},
+{
+"id": "fac_115",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 2x - 24",
+"respuesta_correcta": "(x + 6)(x - 4)"
+},
+{
+"id": "fac_116",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - x - 6",
+"respuesta_correcta": "(x - 3)(x + 2)"
+},
+{
+"id": "fac_117",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - x - 12",
+"respuesta_correcta": "(x - 4)(x + 3)"
+},
+{
+"id": "fac_118",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 2x - 15",
+"respuesta_correcta": "(x - 5)(x + 3)"
+},
+{
+"id": "fac_119",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - x - 20",
+"respuesta_correcta": "(x - 5)(x + 4)"
+},
+{
+"id": "fac_120",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 2x - 24",
+"respuesta_correcta": "(x - 6)(x + 4)"
+},
+{
+"id": "fac_121",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 11x + 30",
+"respuesta_correcta": "(x + 5)(x + 6)"
+},
+{
+"id": "fac_122",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 13x + 42",
+"respuesta_correcta": "(x + 6)(x + 7)"
+},
+{
+"id": "fac_123",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 15x + 56",
+"respuesta_correcta": "(x + 7)(x + 8)"
+},
+{
+"id": "fac_124",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 17x + 72",
+"respuesta_correcta": "(x + 8)(x + 9)"
+},
+{
+"id": "fac_125",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 19x + 90",
+"respuesta_correcta": "(x + 9)(x + 10)"
+},
+{
+"id": "fac_126",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 11x + 30",
+"respuesta_correcta": "(x - 5)(x - 6)"
+},
+{
+"id": "fac_127",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 13x + 42",
+"respuesta_correcta": "(x - 6)(x - 7)"
+},
+{
+"id": "fac_128",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 15x + 56",
+"respuesta_correcta": "(x - 7)(x - 8)"
+},
+{
+"id": "fac_129",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 17x + 72",
+"respuesta_correcta": "(x - 8)(x - 9)"
+},
+{
+"id": "fac_130",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 19x + 90",
+"respuesta_correcta": "(x - 9)(x - 10)"
+},
+{
+"id": "fac_131",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + x - 30",
+"respuesta_correcta": "(x + 6)(x - 5)"
+},
+{
+"id": "fac_132",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + x - 42",
+"respuesta_correcta": "(x + 7)(x - 6)"
+},
+{
+"id": "fac_133",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + x - 56",
+"respuesta_correcta": "(x + 8)(x - 7)"
+},
+{
+"id": "fac_134",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + x - 72",
+"respuesta_correcta": "(x + 9)(x - 8)"
+},
+{
+"id": "fac_135",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + x - 90",
+"respuesta_correcta": "(x + 10)(x - 9)"
+},
+{
+"id": "fac_136",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - x - 30",
+"respuesta_correcta": "(x - 6)(x + 5)"
+},
+{
+"id": "fac_137",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - x - 42",
+"respuesta_correcta": "(x - 7)(x + 6)"
+},
+{
+"id": "fac_138",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - x - 56",
+"respuesta_correcta": "(x - 8)(x + 7)"
+},
+{
+"id": "fac_139",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - x - 72",
+"respuesta_correcta": "(x - 9)(x + 8)"
+},
+{
+"id": "fac_140",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - x - 90",
+"respuesta_correcta": "(x - 10)(x + 9)"
+},
+{
+"id": "fac_141",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 12x + 35",
+"respuesta_correcta": "(x + 5)(x + 7)"
+},
+{
+"id": "fac_142",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 14x + 48",
+"respuesta_correcta": "(x + 6)(x + 8)"
+},
+{
+"id": "fac_143",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 16x + 63",
+"respuesta_correcta": "(x + 7)(x + 9)"
+},
+{
+"id": "fac_144",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 12x + 35",
+"respuesta_correcta": "(x - 5)(x - 7)"
+},
+{
+"id": "fac_145",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 14x + 48",
+"respuesta_correcta": "(x - 6)(x - 8)"
+},
+{
+"id": "fac_146",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 16x + 63",
+"respuesta_correcta": "(x - 7)(x - 9)"
+},
+{
+"id": "fac_147",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 2x - 35",
+"respuesta_correcta": "(x + 7)(x - 5)"
+},
+{
+"id": "fac_148",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 + 2x - 48",
+"respuesta_correcta": "(x + 8)(x - 6)"
+},
+{
+"id": "fac_149",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 2x - 35",
+"respuesta_correcta": "(x - 7)(x + 5)"
+},
+{
+"id": "fac_150",
+"tema": "Factorización",
+"tipo": "general trinomial of a=1",
+"expresion_latex": "x^2 - 2x - 48",
+"respuesta_correcta": "(x - 8)(x + 6)"
+},
+{
+"id": "fac_151",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 + 5x + 3",
+"respuesta_correcta": "(2x + 3)(x + 1)"
+},
+{
+"id": "fac_152",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 + 7x + 3",
+"respuesta_correcta": "(2x + 1)(x + 3)"
+},
+{
+"id": "fac_153",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 + 7x + 2",
+"respuesta_correcta": "(3x + 1)(x + 2)"
+},
+{
+"id": "fac_154",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 + 8x + 4",
+"respuesta_correcta": "(3x + 2)(x + 2)"
+},
+{
+"id": "fac_155",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "5x^2 + 7x + 2",
+"respuesta_correcta": "(5x + 2)(x + 1)"
+},
+{
+"id": "fac_156",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 - 5x + 3",
+"respuesta_correcta": "(2x - 3)(x - 1)"
+},
+{
+"id": "fac_157",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 - 7x + 3",
+"respuesta_correcta": "(2x - 1)(x - 3)"
+},
+{
+"id": "fac_158",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 - 7x + 2",
+"respuesta_correcta": "(3x - 1)(x - 2)"
+},
+{
+"id": "fac_159",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 - 8x + 4",
+"respuesta_correcta": "(3x - 2)(x - 2)"
+},
+{
+"id": "fac_160",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "5x^2 - 7x + 2",
+"respuesta_correcta": "(5x - 2)(x - 1)"
+},
+{
+"id": "fac_161",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 + x - 3",
+"respuesta_correcta": "(2x + 3)(x - 1)"
+},
+{
+"id": "fac_162",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 + 5x - 3",
+"respuesta_correcta": "(2x - 1)(x + 3)"
+},
+{
+"id": "fac_163",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 + 5x - 2",
+"respuesta_correcta": "(3x - 1)(x + 2)"
+},
+{
+"id": "fac_164",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 + 10x - 8",
+"respuesta_correcta": "(3x - 2)(x + 4)"
+},
+{
+"id": "fac_165",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "5x^2 + 3x - 2",
+"respuesta_correcta": "(5x - 2)(x + 1)"
+},
+{
+"id": "fac_166",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 - x - 3",
+"respuesta_correcta": "(2x - 3)(x + 1)"
+},
+{
+"id": "fac_167",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 - 5x - 3",
+"respuesta_correcta": "(2x + 1)(x - 3)"
+},
+{
+"id": "fac_168",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 - 5x - 2",
+"respuesta_correcta": "(3x + 1)(x - 2)"
+},
+{
+"id": "fac_169",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 - 10x - 8",
+"respuesta_correcta": "(3x + 2)(x - 4)"
+},
+{
+"id": "fac_170",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "5x^2 - 3x - 2",
+"respuesta_correcta": "(5x + 2)(x - 1)"
+},
+{
+"id": "fac_171",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "4x^2 + 8x + 3",
+"respuesta_correcta": "(2x + 1)(2x + 3)"
+},
+{
+"id": "fac_172",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "4x^2 + 13x + 3",
+"respuesta_correcta": "(4x + 1)(x + 3)"
+},
+{
+"id": "fac_173",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 + 7x + 2",
+"respuesta_correcta": "(3x + 2)(2x + 1)"
+},
+{
+"id": "fac_174",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 + 11x + 3",
+"respuesta_correcta": "(3x + 1)(2x + 3)"
+},
+{
+"id": "fac_175",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 + 13x + 6",
+"respuesta_correcta": "(3x + 2)(2x + 3)"
+},
+{
+"id": "fac_176",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "4x^2 - 8x + 3",
+"respuesta_correcta": "(2x - 1)(2x - 3)"
+},
+{
+"id": "fac_177",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "4x^2 - 13x + 3",
+"respuesta_correcta": "(4x - 1)(x - 3)"
+},
+{
+"id": "fac_178",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 - 7x + 2",
+"respuesta_correcta": "(3x - 2)(2x - 1)"
+},
+{
+"id": "fac_179",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 - 11x + 3",
+"respuesta_correcta": "(3x - 1)(2x - 3)"
+},
+{
+"id": "fac_180",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 - 13x + 6",
+"respuesta_correcta": "(3x - 2)(2x - 3)"
+},
+{
+"id": "fac_181",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "4x^2 + 4x - 3",
+"respuesta_correcta": "(2x + 3)(2x - 1)"
+},
+{
+"id": "fac_182",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "4x^2 + 11x - 3",
+"respuesta_correcta": "(4x - 1)(x + 3)"
+},
+{
+"id": "fac_183",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 + x - 2",
+"respuesta_correcta": "(3x + 2)(2x - 1)"
+},
+{
+"id": "fac_184",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 + 7x - 3",
+"respuesta_correcta": "(3x - 1)(2x + 3)"
+},
+{
+"id": "fac_185",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 + 5x - 6",
+"respuesta_correcta": "(3x - 2)(2x + 3)"
+},
+{
+"id": "fac_186",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "4x^2 - 4x - 3",
+"respuesta_correcta": "(2x - 3)(2x + 1)"
+},
+{
+"id": "fac_187",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "4x^2 - 11x - 3",
+"respuesta_correcta": "(4x + 1)(x - 3)"
+},
+{
+"id": "fac_188",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 - x - 2",
+"respuesta_correcta": "(3x - 2)(2x + 1)"
+},
+{
+"id": "fac_189",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 - 7x - 3",
+"respuesta_correcta": "(3x + 1)(2x - 3)"
+},
+{
+"id": "fac_190",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "6x^2 - 5x - 6",
+"respuesta_correcta": "(3x + 2)(2x - 3)"
+},
+{
+"id": "fac_191",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 + 9x + 10",
+"respuesta_correcta": "(2x + 5)(x + 2)"
+},
+{
+"id": "fac_192",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 + 11x + 10",
+"respuesta_correcta": "(3x + 5)(x + 2)"
+},
+{
+"id": "fac_193",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "5x^2 + 12x + 4",
+"respuesta_correcta": "(5x + 2)(x + 2)"
+},
+{
+"id": "fac_194",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 - 9x + 10",
+"respuesta_correcta": "(2x - 5)(x - 2)"
+},
+{
+"id": "fac_195",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 - 11x + 10",
+"respuesta_correcta": "(3x - 5)(x - 2)"
+},
+{
+"id": "fac_196",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "5x^2 - 12x + 4",
+"respuesta_correcta": "(5x - 2)(x - 2)"
+},
+{
+"id": "fac_197",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 + x - 10",
+"respuesta_correcta": "(2x + 5)(x - 2)"
+},
+{
+"id": "fac_198",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "3x^2 + x - 10",
+"respuesta_correcta": "(3x - 5)(x + 2)"
+},
+{
+"id": "fac_199",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "5x^2 + 8x - 4",
+"respuesta_correcta": "(5x - 2)(x + 2)"
+},
+{
+"id": "fac_200",
+"tema": "Factorización",
+"tipo": "general trinomial with a>1",
+"expresion_latex": "2x^2 - x - 10",
+"respuesta_correcta": "(2x - 5)(x + 2)"
+},
+{
+"id": "fac_201",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 2x + 1",
+"respuesta_correcta": "(x + 1)^2"
+},
+{
+"id": "fac_202",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 4x + 4",
+"respuesta_correcta": "(x + 2)^2"
+},
+{
+"id": "fac_203",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 6x + 9",
+"respuesta_correcta": "(x + 3)^2"
+},
+{
+"id": "fac_204",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 8x + 16",
+"respuesta_correcta": "(x + 4)^2"
+},
+{
+"id": "fac_205",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 10x + 25",
+"respuesta_correcta": "(x + 5)^2"
+},
+{
+"id": "fac_206",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 12x + 36",
+"respuesta_correcta": "(x + 6)^2"
+},
+{
+"id": "fac_207",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 14x + 49",
+"respuesta_correcta": "(x + 7)^2"
+},
+{
+"id": "fac_208",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 16x + 64",
+"respuesta_correcta": "(x + 8)^2"
+},
+{
+"id": "fac_209",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 18x + 81",
+"respuesta_correcta": "(x + 9)^2"
+},
+{
+"id": "fac_210",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 20x + 100",
+"respuesta_correcta": "(x + 10)^2"
+},
+{
+"id": "fac_211",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 2x + 1",
+"respuesta_correcta": "(x - 1)^2"
+},
+{
+"id": "fac_212",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 4x + 4",
+"respuesta_correcta": "(x - 2)^2"
+},
+{
+"id": "fac_213",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 6x + 9",
+"respuesta_correcta": "(x - 3)^2"
+},
+{
+"id": "fac_214",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 8x + 16",
+"respuesta_correcta": "(x - 4)^2"
+},
+{
+"id": "fac_215",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 10x + 25",
+"respuesta_correcta": "(x - 5)^2"
+},
+{
+"id": "fac_216",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 12x + 36",
+"respuesta_correcta": "(x - 6)^2"
+},
+{
+"id": "fac_217",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 14x + 49",
+"respuesta_correcta": "(x - 7)^2"
+},
+{
+"id": "fac_218",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 16x + 64",
+"respuesta_correcta": "(x - 8)^2"
+},
+{
+"id": "fac_219",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 18x + 81",
+"respuesta_correcta": "(x - 9)^2"
+},
+{
+"id": "fac_220",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 20x + 100",
+"respuesta_correcta": "(x - 10)^2"
+},
+{
+"id": "fac_221",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "4x^2 + 4x + 1",
+"respuesta_correcta": "(2x + 1)^2"
+},
+{
+"id": "fac_222",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "4x^2 + 12x + 9",
+"respuesta_correcta": "(2x + 3)^2"
+},
+{
+"id": "fac_223",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "4x^2 + 20x + 25",
+"respuesta_correcta": "(2x + 5)^2"
+},
+{
+"id": "fac_224",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "9x^2 + 6x + 1",
+"respuesta_correcta": "(3x + 1)^2"
+},
+{
+"id": "fac_225",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "9x^2 + 12x + 4",
+"respuesta_correcta": "(3x + 2)^2"
+},
+{
+"id": "fac_226",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "9x^2 + 30x + 25",
+"respuesta_correcta": "(3x + 5)^2"
+},
+{
+"id": "fac_227",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "16x^2 + 8x + 1",
+"respuesta_correcta": "(4x + 1)^2"
+},
+{
+"id": "fac_228",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "16x^2 + 24x + 9",
+"respuesta_correcta": "(4x + 3)^2"
+},
+{
+"id": "fac_229",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "25x^2 + 10x + 1",
+"respuesta_correcta": "(5x + 1)^2"
+},
+{
+"id": "fac_230",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "25x^2 + 20x + 4",
+"respuesta_correcta": "(5x + 2)^2"
+},
+{
+"id": "fac_231",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "4x^2 - 4x + 1",
+"respuesta_correcta": "(2x - 1)^2"
+},
+{
+"id": "fac_232",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "4x^2 - 12x + 9",
+"respuesta_correcta": "(2x - 3)^2"
+},
+{
+"id": "fac_233",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "4x^2 - 20x + 25",
+"respuesta_correcta": "(2x - 5)^2"
+},
+{
+"id": "fac_234",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "9x^2 - 6x + 1",
+"respuesta_correcta": "(3x - 1)^2"
+},
+{
+"id": "fac_235",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "9x^2 - 12x + 4",
+"respuesta_correcta": "(3x - 2)^2"
+},
+{
+"id": "fac_236",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "9x^2 - 30x + 25",
+"respuesta_correcta": "(3x - 5)^2"
+},
+{
+"id": "fac_237",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "16x^2 - 8x + 1",
+"respuesta_correcta": "(4x - 1)^2"
+},
+{
+"id": "fac_238",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "16x^2 - 24x + 9",
+"respuesta_correcta": "(4x - 3)^2"
+},
+{
+"id": "fac_239",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "25x^2 - 10x + 1",
+"respuesta_correcta": "(5x - 1)^2"
+},
+{
+"id": "fac_240",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "25x^2 - 20x + 4",
+"respuesta_correcta": "(5x - 2)^2"
+},
+{
+"id": "fac_241",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 + 2xy + y^2",
+"respuesta_correcta": "(x + y)^2"
+},
+{
+"id": "fac_242",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "x^2 - 2xy + y^2",
+"respuesta_correcta": "(x - y)^2"
+},
+{
+"id": "fac_243",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "4x^2 + 4xy + y^2",
+"respuesta_correcta": "(2x + y)^2"
+},
+{
+"id": "fac_244",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "4x^2 - 4xy + y^2",
+"respuesta_correcta": "(2x - y)^2"
+},
+{
+"id": "fac_245",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "9x^2 + 6xy + y^2",
+"respuesta_correcta": "(3x + y)^2"
+},
+{
+"id": "fac_246",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "9x^2 - 6xy + y^2",
+"respuesta_correcta": "(3x - y)^2"
+},
+{
+"id": "fac_247",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "16x^2 + 24xy + 9y^2",
+"respuesta_correcta": "(4x + 3y)^2"
+},
+{
+"id": "fac_248",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "16x^2 - 24xy + 9y^2",
+"respuesta_correcta": "(4x - 3y)^2"
+},
+{
+"id": "fac_249",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "25x^2 + 30xy + 9y^2",
+"respuesta_correcta": "(5x + 3y)^2"
+},
+{
+"id": "fac_250",
+"tema": "Factorización",
+"tipo": "perfect squared trinomial",
+"expresion_latex": "25x^2 - 30xy + 9y^2",
+"respuesta_correcta": "(5x - 3y)^2"
+},
+{
+"id": "fac_251",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 1",
+"respuesta_correcta": "(x - 1)(x + 1)"
+},
+{
+"id": "fac_252",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 4",
+"respuesta_correcta": "(x - 2)(x + 2)"
+},
+{
+"id": "fac_253",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 9",
+"respuesta_correcta": "(x - 3)(x + 3)"
+},
+{
+"id": "fac_254",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 16",
+"respuesta_correcta": "(x - 4)(x + 4)"
+},
+{
+"id": "fac_255",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 25",
+"respuesta_correcta": "(x - 5)(x + 5)"
+},
+{
+"id": "fac_256",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 36",
+"respuesta_correcta": "(x - 6)(x + 6)"
+},
+{
+"id": "fac_257",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 49",
+"respuesta_correcta": "(x - 7)(x + 7)"
+},
+{
+"id": "fac_258",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 64",
+"respuesta_correcta": "(x - 8)(x + 8)"
+},
+{
+"id": "fac_259",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 81",
+"respuesta_correcta": "(x - 9)(x + 9)"
+},
+{
+"id": "fac_260",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 100",
+"respuesta_correcta": "(x - 10)(x + 10)"
+},
+{
+"id": "fac_261",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "4x^2 - 1",
+"respuesta_correcta": "(2x - 1)(2x + 1)"
+},
+{
+"id": "fac_262",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "4x^2 - 9",
+"respuesta_correcta": "(2x - 3)(2x + 3)"
+},
+{
+"id": "fac_263",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "4x^2 - 25",
+"respuesta_correcta": "(2x - 5)(2x + 5)"
+},
+{
+"id": "fac_264",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "4x^2 - 49",
+"respuesta_correcta": "(2x - 7)(2x + 7)"
+},
+{
+"id": "fac_265",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "4x^2 - 81",
+"respuesta_correcta": "(2x - 9)(2x + 9)"
+},
+{
+"id": "fac_266",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "9x^2 - 1",
+"respuesta_correcta": "(3x - 1)(3x + 1)"
+},
+{
+"id": "fac_267",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "9x^2 - 4",
+"respuesta_correcta": "(3x - 2)(3x + 2)"
+},
+{
+"id": "fac_268",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "9x^2 - 16",
+"respuesta_correcta": "(3x - 4)(3x + 4)"
+},
+{
+"id": "fac_269",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "9x^2 - 25",
+"respuesta_correcta": "(3x - 5)(3x + 5)"
+},
+{
+"id": "fac_270",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "9x^2 - 49",
+"respuesta_correcta": "(3x - 7)(3x + 7)"
+},
+{
+"id": "fac_271",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "16x^2 - 1",
+"respuesta_correcta": "(4x - 1)(4x + 1)"
+},
+{
+"id": "fac_272",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "16x^2 - 9",
+"respuesta_correcta": "(4x - 3)(4x + 3)"
+},
+{
+"id": "fac_273",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "16x^2 - 25",
+"respuesta_correcta": "(4x - 5)(4x + 5)"
+},
+{
+"id": "fac_274",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "25x^2 - 1",
+"respuesta_correcta": "(5x - 1)(5x + 1)"
+},
+{
+"id": "fac_275",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "25x^2 - 4",
+"respuesta_correcta": "(5x - 2)(5x + 2)"
+},
+{
+"id": "fac_276",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "25x^2 - 9",
+"respuesta_correcta": "(5x - 3)(5x + 3)"
+},
+{
+"id": "fac_277",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "25x^2 - 16",
+"respuesta_correcta": "(5x - 4)(5x + 4)"
+},
+{
+"id": "fac_278",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "36x^2 - 25",
+"respuesta_correcta": "(6x - 5)(6x + 5)"
+},
+{
+"id": "fac_279",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "49x^2 - 16",
+"respuesta_correcta": "(7x - 4)(7x + 4)"
+},
+{
+"id": "fac_280",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "64x^2 - 9",
+"respuesta_correcta": "(8x - 3)(8x + 3)"
+},
+{
+"id": "fac_281",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - y^2",
+"respuesta_correcta": "(x - y)(x + y)"
+},
+{
+"id": "fac_282",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 4y^2",
+"respuesta_correcta": "(x - 2y)(x + 2y)"
+},
+{
+"id": "fac_283",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 9y^2",
+"respuesta_correcta": "(x - 3y)(x + 3y)"
+},
+{
+"id": "fac_284",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 16y^2",
+"respuesta_correcta": "(x - 4y)(x + 4y)"
+},
+{
+"id": "fac_285",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^2 - 25y^2",
+"respuesta_correcta": "(x - 5y)(x + 5y)"
+},
+{
+"id": "fac_286",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "4x^2 - y^2",
+"respuesta_correcta": "(2x - y)(2x + y)"
+},
+{
+"id": "fac_287",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "4x^2 - 9y^2",
+"respuesta_correcta": "(2x - 3y)(2x + 3y)"
+},
+{
+"id": "fac_288",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "4x^2 - 25y^2",
+"respuesta_correcta": "(2x - 5y)(2x + 5y)"
+},
+{
+"id": "fac_289",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "9x^2 - 4y^2",
+"respuesta_correcta": "(3x - 2y)(3x + 2y)"
+},
+{
+"id": "fac_290",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "9x^2 - 16y^2",
+"respuesta_correcta": "(3x - 4y)(3x + 4y)"
+},
+{
+"id": "fac_291",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "16x^2 - 25y^2",
+"respuesta_correcta": "(4x - 5y)(4x + 5y)"
+},
+{
+"id": "fac_292",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "25x^2 - 36y^2",
+"respuesta_correcta": "(5x - 6y)(5x + 6y)"
+},
+{
+"id": "fac_293",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "36x^2 - 49y^2",
+"respuesta_correcta": "(6x - 7y)(6x + 7y)"
+},
+{
+"id": "fac_294",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "49x^2 - 64y^2",
+"respuesta_correcta": "(7x - 8y)(7x + 8y)"
+},
+{
+"id": "fac_295",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "81x^2 - 100y^2",
+"respuesta_correcta": "(9x - 10y)(9x + 10y)"
+},
+{
+"id": "fac_296",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^4 - 1",
+"respuesta_correcta": "(x^2 - 1)(x^2 + 1)"
+},
+{
+"id": "fac_297",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^4 - 16",
+"respuesta_correcta": "(x^2 - 4)(x^2 + 4)"
+},
+{
+"id": "fac_298",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "x^4 - 81",
+"respuesta_correcta": "(x^2 - 9)(x^2 + 9)"
+},
+{
+"id": "fac_299",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "16x^4 - 1",
+"respuesta_correcta": "(4x^2 - 1)(4x^2 + 1)"
+},
+{
+"id": "fac_300",
+"tema": "Factorización",
+"tipo": "difference of squares",
+"expresion_latex": "81x^4 - 16",
+"respuesta_correcta": "(9x^2 - 4)(9x^2 + 4)"
+},
+{
+"id": "fac_301",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + 1",
+"respuesta_correcta": "(x + 1)(x^2 - x + 1)"
+},
+{
+"id": "fac_302",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + 8",
+"respuesta_correcta": "(x + 2)(x^2 - 2x + 4)"
+},
+{
+"id": "fac_303",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + 27",
+"respuesta_correcta": "(x + 3)(x^2 - 3x + 9)"
+},
+{
+"id": "fac_304",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + 64",
+"respuesta_correcta": "(x + 4)(x^2 - 4x + 16)"
+},
+{
+"id": "fac_305",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + 125",
+"respuesta_correcta": "(x + 5)(x^2 - 5x + 25)"
+},
+{
+"id": "fac_306",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + 216",
+"respuesta_correcta": "(x + 6)(x^2 - 6x + 36)"
+},
+{
+"id": "fac_307",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + 343",
+"respuesta_correcta": "(x + 7)(x^2 - 7x + 49)"
+},
+{
+"id": "fac_308",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - 1",
+"respuesta_correcta": "(x - 1)(x^2 + x + 1)"
+},
+{
+"id": "fac_309",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - 8",
+"respuesta_correcta": "(x - 2)(x^2 + 2x + 4)"
+},
+{
+"id": "fac_310",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - 27",
+"respuesta_correcta": "(x - 3)(x^2 + 3x + 9)"
+},
+{
+"id": "fac_311",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - 64",
+"respuesta_correcta": "(x - 4)(x^2 + 4x + 16)"
+},
+{
+"id": "fac_312",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - 125",
+"respuesta_correcta": "(x - 5)(x^2 + 5x + 25)"
+},
+{
+"id": "fac_313",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - 216",
+"respuesta_correcta": "(x - 6)(x^2 + 6x + 36)"
+},
+{
+"id": "fac_314",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - 343",
+"respuesta_correcta": "(x - 7)(x^2 + 7x + 49)"
+},
+{
+"id": "fac_315",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 + 1",
+"respuesta_correcta": "(2x + 1)(4x^2 - 2x + 1)"
+},
+{
+"id": "fac_316",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 + 27",
+"respuesta_correcta": "(2x + 3)(4x^2 - 6x + 9)"
+},
+{
+"id": "fac_317",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 + 125",
+"respuesta_correcta": "(2x + 5)(4x^2 - 10x + 25)"
+},
+{
+"id": "fac_318",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 + 1",
+"respuesta_correcta": "(3x + 1)(9x^2 - 3x + 1)"
+},
+{
+"id": "fac_319",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 + 8",
+"respuesta_correcta": "(3x + 2)(9x^2 - 6x + 4)"
+},
+{
+"id": "fac_320",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 + 64",
+"respuesta_correcta": "(3x + 4)(9x^2 - 12x + 16)"
+},
+{
+"id": "fac_321",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "64x^3 + 1",
+"respuesta_correcta": "(4x + 1)(16x^2 - 4x + 1)"
+},
+{
+"id": "fac_322",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "64x^3 + 27",
+"respuesta_correcta": "(4x + 3)(16x^2 - 12x + 9)"
+},
+{
+"id": "fac_323",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "125x^3 + 1",
+"respuesta_correcta": "(5x + 1)(25x^2 - 5x + 1)"
+},
+{
+"id": "fac_324",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "125x^3 + 8",
+"respuesta_correcta": "(5x + 2)(25x^2 - 10x + 4)"
+},
+{
+"id": "fac_325",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "125x^3 + 27",
+"respuesta_correcta": "(5x + 3)(25x^2 - 15x + 9)"
+},
+{
+"id": "fac_326",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 - 1",
+"respuesta_correcta": "(2x - 1)(4x^2 + 2x + 1)"
+},
+{
+"id": "fac_327",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 - 27",
+"respuesta_correcta": "(2x - 3)(4x^2 + 6x + 9)"
+},
+{
+"id": "fac_328",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 - 125",
+"respuesta_correcta": "(2x - 5)(4x^2 + 10x + 25)"
+},
+{
+"id": "fac_329",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 - 1",
+"respuesta_correcta": "(3x - 1)(9x^2 + 3x + 1)"
+},
+{
+"id": "fac_330",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 - 8",
+"respuesta_correcta": "(3x - 2)(9x^2 + 6x + 4)"
+},
+{
+"id": "fac_331",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 - 64",
+"respuesta_correcta": "(3x - 4)(9x^2 + 12x + 16)"
+},
+{
+"id": "fac_332",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "64x^3 - 1",
+"respuesta_correcta": "(4x - 1)(16x^2 + 4x + 1)"
+},
+{
+"id": "fac_333",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "64x^3 - 27",
+"respuesta_correcta": "(4x - 3)(16x^2 + 12x + 9)"
+},
+{
+"id": "fac_334",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "125x^3 - 1",
+"respuesta_correcta": "(5x - 1)(25x^2 + 5x + 1)"
+},
+{
+"id": "fac_335",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "125x^3 - 8",
+"respuesta_correcta": "(5x - 2)(25x^2 + 10x + 4)"
+},
+{
+"id": "fac_336",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + y^3",
+"respuesta_correcta": "(x + y)(x^2 - xy + y^2)"
+},
+{
+"id": "fac_337",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - y^3",
+"respuesta_correcta": "(x - y)(x^2 + xy + y^2)"
+},
+{
+"id": "fac_338",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 + y^3",
+"respuesta_correcta": "(2x + y)(4x^2 - 2xy + y^2)"
+},
+{
+"id": "fac_339",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 - y^3",
+"respuesta_correcta": "(2x - y)(4x^2 + 2xy + y^2)"
+},
+{
+"id": "fac_340",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 + y^3",
+"respuesta_correcta": "(3x + y)(9x^2 - 3xy + y^2)"
+},
+{
+"id": "fac_341",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 - y^3",
+"respuesta_correcta": "(3x - y)(9x^2 + 3xy + y^2)"
+},
+{
+"id": "fac_342",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 + 8y^3",
+"respuesta_correcta": "(x + 2y)(x^2 - 2xy + 4y^2)"
+},
+{
+"id": "fac_343",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "x^3 - 8y^3",
+"respuesta_correcta": "(x - 2y)(x^2 + 2xy + 4y^2)"
+},
+{
+"id": "fac_344",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 + 27y^3",
+"respuesta_correcta": "(2x + 3y)(4x^2 - 6xy + 9y^2)"
+},
+{
+"id": "fac_345",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "8x^3 - 27y^3",
+"respuesta_correcta": "(2x - 3y)(4x^2 + 6xy + 9y^2)"
+},
+{
+"id": "fac_346",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 + 64y^3",
+"respuesta_correcta": "(3x + 4y)(9x^2 - 12xy + 16y^2)"
+},
+{
+"id": "fac_347",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "27x^3 - 64y^3",
+"respuesta_correcta": "(3x - 4y)(9x^2 + 12xy + 16y^2)"
+},
+{
+"id": "fac_348",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "64x^3 + 125y^3",
+"respuesta_correcta": "(4x + 5y)(16x^2 - 20xy + 25y^2)"
+},
+{
+"id": "fac_349",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "64x^3 - 125y^3",
+"respuesta_correcta": "(4x - 5y)(16x^2 + 20xy + 25y^2)"
+},
+{
+"id": "fac_350",
+"tema": "Factorización",
+"tipo": "sum and difference of cubes",
+"expresion_latex": "216x^3 + 1",
+"respuesta_correcta": "(6x + 1)(36x^2 - 6x + 1)"
+}
+]
